@@ -1,0 +1,17 @@
+{
+  "extends": ["react-app", "plugin:prettier/recommended"],
+  "rules": {
+    "prettier/prettier": [
+      "warn",
+      {
+        "semi": true,
+        "trailingComma": "all",
+        "singleQuote": true,
+        "printWidth": 85,
+        "bracketSpacing": true,
+        "jsxSingleQuote": true,
+        "jsxBracketSameLine": true
+      }
+    ]
+  }
+}

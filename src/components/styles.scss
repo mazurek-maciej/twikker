@@ -1,0 +1,18 @@
+$c1: #040f16;
+$c2: #0b4f6c;
+$c3: #01baef;
+$c4: #fbfbff;
+$c5: #b80c09;
+
+body {
+  background-color: $c1;
+  color: $c4;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 1200px;
+  margin: 32px auto;
+}

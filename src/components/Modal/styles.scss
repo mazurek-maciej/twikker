@@ -1,0 +1,46 @@
+.modal {
+  align-items: center;
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  position: fixed;
+  z-index: 40;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+
+  &-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 330px;
+    background-color: #0b4f6c;
+    border-radius: 6px;
+    color: #fbfbff;
+    padding: 1.25rem;
+  }
+
+  &-btn {
+    border: 0;
+    color: #fbfbff;
+    font-size: 16px;
+    font-weight: 700;
+    background-color: #01baef;
+    padding: 4px 16px;
+    border-radius: 4px;
+    margin-top: 16px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+
+    &:hover {
+      background-color: #0b4f6c;
+    }
+  }
+}
+
+.is-active {
+  display: flex;
+  background-color: rgba(10, 10, 10, 0.86);
+}
