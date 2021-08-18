@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/twikker/static/css/main.83e6d6a4.chunk.css",
+    "main.css": "/twikker/static/css/main.dc9ba3b8.chunk.css",
     "main.js": "/twikker/static/js/main.172a17f5.chunk.js",
     "main.js.map": "/twikker/static/js/main.172a17f5.chunk.js.map",
     "runtime-main.js": "/twikker/static/js/runtime-main.7a8438ed.js",
@@ -10,13 +10,13 @@
     "static/js/3.ec3949a7.chunk.js": "/twikker/static/js/3.ec3949a7.chunk.js",
     "static/js/3.ec3949a7.chunk.js.map": "/twikker/static/js/3.ec3949a7.chunk.js.map",
     "index.html": "/twikker/index.html",
-    "static/css/main.83e6d6a4.chunk.css.map": "/twikker/static/css/main.83e6d6a4.chunk.css.map",
+    "static/css/main.dc9ba3b8.chunk.css.map": "/twikker/static/css/main.dc9ba3b8.chunk.css.map",
     "static/js/2.487a0843.chunk.js.LICENSE.txt": "/twikker/static/js/2.487a0843.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7a8438ed.js",
     "static/js/2.487a0843.chunk.js",
-    "static/css/main.83e6d6a4.chunk.css",
+    "static/css/main.dc9ba3b8.chunk.css",
     "static/js/main.172a17f5.chunk.js"
   ]
 }
